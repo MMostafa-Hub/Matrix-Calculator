@@ -1,0 +1,2 @@
+#pragma once
+operation != "addition" || operation != "subtraction" || operation != "matrixmult" || operation != "transpose" || operation != "division" || operation != "determinant" || operation != "adjoint" || operation != "operationonc"
